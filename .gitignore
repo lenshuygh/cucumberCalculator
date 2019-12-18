@@ -1,0 +1,16 @@
+/calculator.iml
+/target/surefire-reports/calculator.RunCalculatorTest.txt
+/.idea/compiler.xml
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/test-classes/calculator/Delen.class
+/target/test-classes/calculator/DifferenceOfNumbers$MyStepdefs.class
+/target/test-classes/calculator/DifferenceOfNumbers.class
+/.idea/encodings.xml
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/.idea/misc.xml
+/target/test-classes/calculator/RunCalculatorTest.class
+/target/test-classes/calculator/StepDefsCalculator.class
+/target/test-classes/calculator/SumOfNumbers$MyStepdefs.class
+/target/test-classes/calculator/SumOfNumbers.class
+/target/surefire-reports/TEST-calculator.RunCalculatorTest.xml
