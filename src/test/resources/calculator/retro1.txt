@@ -1,0 +1,12 @@
+retro 16/12/2019
+
+PO: Tom Haeldermans
+Developer: Lens Huygh
+Scrummaster: Paul Gerarts
+
+start:
+	pulling the right solution from the repo and getting ahead on all tickets now that the main repo is error-free
+stop:
+	searching for a working solution to BDD without an end
+continue:
+	writing scenario files with all tests from the PO's tickets and cover all cases described

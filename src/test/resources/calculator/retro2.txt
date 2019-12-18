@@ -1,0 +1,26 @@
+18/12/2019
+
+PO: Tom Haeldermans
+Developer: Lens Huygh
+Scrummaster: Paul Gerarts
+
+start:
+-meer focussen op het scrum proces
+-tickets verder uitwerken
+-rekening houden met uitzonderingen van de features
+-zoeken naar dingen die mogelijk mis kunnen gaan en deze voorkomen
+-beter inschatten dat er vertragingen opgelopen kunnen worden door onvoorziene omstandigheden.
+
+stop:
+-minder implementeren
+-een nieuw framework te onderschatten
+
+
+continue:
+-uitwerking van de features aan de hand van de tickets
+-toekennen storypoints is on point
+-taakverdeling is on point
+-als team aangenaam samenwerken
+-om hulp vragen wanneer nodig bij teamleden
+
+trello:  https://trello.com/invite/b/uzufqPG5/aa2cea2f52f27a05f64eef0e142e843e/agile-sprint-board
