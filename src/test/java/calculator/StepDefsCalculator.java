@@ -10,7 +10,7 @@ class Delen {
     static int answer(int een, int twee) {
         return een / twee;
     }
-}
+
 
 public class StepDefsCalculator {
     int getalEen;
@@ -32,5 +32,5 @@ public class StepDefsCalculator {
     public void zouIkDeUitkomstWillenHebbenInt(double verwachtAntwoord) {
         assertEquals((Object) verwachtAntwoord, uitkomst);
     }
-
+}
 }

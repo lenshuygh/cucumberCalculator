@@ -9,7 +9,7 @@ class MinValueOfNumbers{
     static int returnLowestValue(int een, int twee){
         return een > twee ? twee : een;
     }
-}
+
 
 public class MyStepdefsMinWaarde {
     int eersteGetal;
@@ -30,4 +30,5 @@ public class MyStepdefsMinWaarde {
     public void zouIkHetLaagsteGetalTerugWillenKrijgenInt(int verwachtAntwoord) {
         assertEquals((Object) verwachtAntwoord, uitkomst);
     }
+}
 }
